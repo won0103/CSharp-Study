@@ -2,8 +2,6 @@ Console.WriteLine("성적을 입력하세요: ");
 
 int score = int.Parse(Console.ReadLine());
 
-Console.WriteLine(score);
-
 if (score < 0 || score >100)
 {
   Console.WriteLine("잘못된 점수");
