@@ -1,7 +1,4 @@
 //학생 정보 관리 프로그램
-//클래스내에선 무조건 첫글자 대문자해야함?
-//이제 string형 선언과 동시에 초기화 안해도됨?
-//생성자 매개변수 이름
 Student student1 = new Student("홍길동", 80);
 Student student2 = new Student("김철수", 95);
 
